@@ -12,12 +12,12 @@ Para usar esse script, siga os seguintes passos:
   <code>git clone https://github.com/Daniel13s/horario</code>
   
 3- **Instale as dependencias** na pasta que clonou:<br>
-  -npm: <code>npm init es6 -y</code><br>
-  -parcel: <code>npm i parcel</code><br>
-  -dayjs: <code>npm i dayjs</code><br>
+  - npm: <code>npm init es6 -y</code><br>
+  - parcel: <code>npm i parcel</code><br>
+  - dayjs: <code>npm i dayjs</code><br>
 
-  -No arquivo **package.json** troque o <code>"main" : ""</code> por <code>"source": "src/index.html"</code><br>
-  -No arquivo **package.json** coloque o valor de  <code>"dev" : ""</code> para <code>"dev": "parcel index.html"</code>
+  - No arquivo **package.json** troque o <code>"main" : ""</code> por <code>"source": "src/index.html"</code><br>
+  - No arquivo **package.json** coloque o valor de  <code>"dev" : ""</code> para <code>"dev": "parcel index.html"</code>
   
 4- **Execute** o arquivo digitando no terminal <code>npm run dev</code>
 
