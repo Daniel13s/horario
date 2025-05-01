@@ -14,9 +14,9 @@ body {
 }
 
 #hora {
-    font-size: 110px;
-    margin-bottom: -10px;
+    font-size: 150px;
+    margin-bottom: -80px;
 }
 #dia {
-    font-size: 20px;
+    font-size: 60px;
 }
