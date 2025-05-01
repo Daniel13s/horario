@@ -21,6 +21,16 @@ Para usar esse script, siga os seguintes passos:
 
 4. **Execute** o arquivo digitando no terminal <code>npm run dev</code>
 
-**E pronto**, basta clicar no link e abrir o site🎉!
+## Funcionalidades:
+* Exibe a hora de data exata definida em seu dispositivo.
+* Codigo simples de entender, e comentado
+
+## Tecnologias usadas:
+* HTML 5
+* CSS 3
+* JavaScript: DayJS
+
+### Autor:
+Daniel Silva Cardoso
 
 
