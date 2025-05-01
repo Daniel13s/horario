@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    height: 80vh;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Sour Gummy', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#horario {
+    text-align: center;
+}
+
+#hora {
+    font-size: 110px;
+    margin-bottom: -10px;
+}
+#dia {
+    font-size: 20px;
+}
